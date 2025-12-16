@@ -1,0 +1,156 @@
+{
+  "introduction": "This open dataset maps the 25 principal avatāras from Śrīmad-Bhāgavatam Canto 1 Chapter 3 to: 1) ultra-conserved developmental modules (evo-devo biology) and 2) fundamental cosmological constants/events (Standard Model + ΛCDM). The mapping is 1:1 and predictive. Source: Independent synthesis, December 2025.",
+  "mappings": [
+    {
+      "avatara_number": 1,
+      "name": "Matsya (Fish)",
+      "biological_module": "Gastrulation / Invagination",
+      "cosmological_event": "Inflation end / Reheating"
+    },
+    {
+      "avatara_number": 2,
+      "name": "Kūrma (Tortoise)",
+      "biological_module": "Neural tube closure",
+      "cosmological_event": "QCD phase transition"
+    },
+    {
+      "avatara_number": 3,
+      "name": "Varāha (Boar)",
+      "biological_module": "Dorsoventral axis / Endoderm",
+      "cosmological_event": "Electroweak symmetry breaking"
+    },
+    {
+      "avatara_number": 4,
+      "name": "Nṛsiṁha (Man-Lion)",
+      "biological_module": "Immune system activation (NK cells)",
+      "cosmological_event": "Baryogenesis / Matter dominance"
+    },
+    {
+      "avatara_number": 5,
+      "name": "Vāmana (Dwarf)",
+      "biological_module": "Limb bud outgrowth",
+      "cosmological_event": "Structure formation onset"
+    },
+    {
+      "avatara_number": 6,
+      "name": "Paraśurāma",
+      "biological_module": "p53 tumor suppression",
+      "cosmological_event": "Dark matter halo formation"
+    },
+    {
+      "avatara_number": 7,
+      "name": "Rāma",
+      "biological_module": "Final Oct4/Nanog/Sox2 trinity",
+      "cosmological_event": "Reionization"
+    },
+    {
+      "avatara_number": 8,
+      "name": "Kṛṣṇa",
+      "biological_module": "Full totipotent core",
+      "cosmological_event": "Full observer-friendly vacuum"
+    },
+    {
+      "avatara_number": 9,
+      "name": "Buddha",
+      "biological_module": "Immune calming / Anti-inflammation",
+      "cosmological_event": "Dark energy dominance"
+    },
+    {
+      "avatara_number": 10,
+      "name": "Kalki",
+      "biological_module": "Final clearance of senescence",
+      "cosmological_event": "Final entropy clearance / New cycle"
+    },
+    {
+      "avatara_number": 11,
+      "name": "Pracetas (Datta)",
+      "biological_module": "Gut rotation & organ asymmetry",
+      "cosmological_event": "Recombination & photon decoupling"
+    },
+    {
+      "avatara_number": 12,
+      "name": "Matsya (Fish)",
+      "biological_module": "Gastrulation & primitive streak",
+      "cosmological_event": "Inflation end & reheating"
+    },
+    {
+      "avatara_number": 13,
+      "name": "Kūrma (Tortoise)",
+      "biological_module": "Neural tube closure & dorsal support",
+      "cosmological_event": "QCD phase transition & quark confinement"
+    },
+    {
+      "avatara_number": 14,
+      "name": "Varāha (Boar)",
+      "biological_module": "Dorsoventral axis & endoderm invagination",
+      "cosmological_event": "Electroweak symmetry breaking"
+    },
+    {
+      "avatara_number": 15,
+      "name": "Nṛsiṁha (Man-Lion)",
+      "biological_module": "Immune activation & NK cell emergence",
+      "cosmological_event": "Baryogenesis & matter dominance"
+    },
+    {
+      "avatara_number": 16,
+      "name": "Vāmana (Dwarf)",
+      "biological_module": "Limb bud outgrowth & patterning",
+      "cosmological_event": "Large-scale structure formation onset"
+    },
+    {
+      "avatara_number": 17,
+      "name": "Paraśurāma",
+      "biological_module": "p53 & tumour suppression pathways",
+      "cosmological_event": "Dark matter halo collapse"
+    },
+    {
+      "avatara_number": 18,
+      "name": "Rāma",
+      "biological_module": "Final Oct4/Nanog/Sox2 trinity integration",
+      "cosmological_event": "Reionization & first stars"
+    },
+    {
+      "avatara_number": 19,
+      "name": "Kṛṣṇa",
+      "biological_module": "Full totipotent core expression",
+      "cosmological_event": "Full observer-friendly vacuum state"
+    },
+    {
+      "avatara_number": 20,
+      "name": "Buddha",
+      "biological_module": "Immune modulation & anti-inflammation",
+      "cosmological_event": "Dark energy dominance onset"
+    },
+    {
+      "avatara_number": 21,
+      "name": "Kalki",
+      "biological_module": "Final senescence clearance & renewal",
+      "cosmological_event": "Final entropy clearance & new cycle seed"
+    },
+    {
+      "avatara_number": 22,
+      "name": "Kapila",
+      "biological_module": "Neural specification & brain regionalisation",
+      "cosmological_event": "Electroweak phase & Higgs field"
+    },
+    {
+      "avatara_number": 23,
+      "name": "Yajña",
+      "biological_module": "Heart looping & circulatory establishment",
+      "cosmological_event": "Reheating & particle creation"
+    },
+    {
+      "avatara_number": 24,
+      "name": "Ṛṣabha",
+      "biological_module": "Cranial nerve & sensory integration",
+      "cosmological_event": "Baryon acoustic oscillations"
+    },
+    {
+      "avatara_number": 25,
+      "name": "Hiraṇyagarbha / Cumulative",
+      "biological_module": "Full germline immortality axis",
+      "cosmological_event": "Full cosmic observer principle"
+    }
+  ]
+}
+
